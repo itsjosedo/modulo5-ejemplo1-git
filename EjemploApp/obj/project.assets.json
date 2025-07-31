@@ -8,19 +8,34 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jose.calles\\.nuget\\packages\\": {}
+<<<<<<< HEAD
+    "C:\\Users\\jose.ventura\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\reynaldo.henriquez\\.nuget\\packages\\": {}
+>>>>>>> pr-2
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jose.calles\\Documents\\CASATIC\\Modulo5\\Ejemplo1\\EjemploApp\\EjemploApp.csproj",
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\jose.ventura\\Documents\\CASATIC\\Modulo5\\Tema4\\Ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
       "projectName": "EjemploApp",
-      "projectPath": "C:\\Users\\jose.calles\\Documents\\CASATIC\\Modulo5\\Ejemplo1\\EjemploApp\\EjemploApp.csproj",
-      "packagesPath": "C:\\Users\\jose.calles\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jose.calles\\Documents\\CASATIC\\Modulo5\\Ejemplo1\\EjemploApp\\obj\\",
+      "projectPath": "C:\\Users\\jose.ventura\\Documents\\CASATIC\\Modulo5\\Tema4\\Ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+      "packagesPath": "C:\\Users\\jose.ventura\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jose.ventura\\Documents\\CASATIC\\Modulo5\\Tema4\\Ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jose.calles\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jose.ventura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+      "projectName": "EjemploApp",
+      "projectPath": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+      "packagesPath": "C:\\Users\\reynaldo.henriquez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\reynaldo.henriquez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-2
       ],
       "originalTargetFrameworks": [
         "net8.0"
