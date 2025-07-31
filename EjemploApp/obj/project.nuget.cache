@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "MOz3Fk6tcAs=",
   "success": true,
   "projectFilePath": "C:\\Users\\jose.ventura\\Documents\\CASATIC\\Modulo5\\Tema4\\Ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+=======
+  "dgSpecHash": "Qd8SKTJFLEA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+>>>>>>> pr-2
   "expectedPackageFiles": [],
   "logs": []
 }

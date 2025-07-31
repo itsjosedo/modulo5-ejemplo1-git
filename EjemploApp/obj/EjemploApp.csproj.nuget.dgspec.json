@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\jose.ventura\\Documents\\CASATIC\\Modulo5\\Tema4\\Ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jose.ventura\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+        "projectName": "EjemploApp",
+        "projectPath": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\EjemploApp.csproj",
+        "packagesPath": "C:\\Users\\reynaldo.henriquez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\reynaldo.henriquez\\Documents\\Modulo5\\Tema4\\ejemplo4\\modulo5-ejemplo1-git\\EjemploApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\reynaldo.henriquez\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> pr-2
         ],
         "originalTargetFrameworks": [
           "net8.0"
